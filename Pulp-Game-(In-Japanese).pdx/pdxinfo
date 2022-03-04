@@ -1,0 +1,7 @@
+name=Untitled Pulp Game (In Japanese)
+author=weepjp
+description=A tiny game made with Pulp
+bundleID=pulp.weepjp.untitledpulpgameinjapanese
+imagePath=card
+pdxversion=10500
+buildtime=699720995
